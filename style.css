@@ -78,6 +78,10 @@ input {
 	text-align: right;
 }
 
+.question--self {
+	border-top: 4px solid #db446f;
+}
+
 /* Input area to add a new question */
 .ask-question {
 	padding: 0.5rem 1rem;
