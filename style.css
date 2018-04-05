@@ -34,7 +34,11 @@ input {
 	text-decoration: none;
 	cursor: pointer;
 }
-
+.button--ask{
+	font-weight: bold;
+	width: 300px;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
 /* Site title and top navigation */
 .site-header {
 	display: flex;
